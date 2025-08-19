@@ -1,17 +1,15 @@
-lstudent_1 = [40, 35, 70, 90, 56]
+student_1 = [40, 35, 70, 90, 56]
+
 student_2 = [57, 35, 80, 98, 46]
 
-def check_student(student):
-    # Check if any mark is less than 40
+def avg(student):
     for mark in student:
         if mark < 40:
-            print("FAILED")
-            return  # stop checking further
+            print("Failed")
+            return
 
-    # If no marks < 40, calculate average
-    average = sum(student) / len(student)
-    print("Average marks:", average)
-
-# Test both students
-check_student(lstudent_1)
-check_student(student_2)
+    student_avg = sum(student) / len(student)
+    print(f"Student Average: {student_avg}")
+    
+avg(student_1)
+avg(student_2)
