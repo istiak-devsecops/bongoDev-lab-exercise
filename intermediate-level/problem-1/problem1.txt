@@ -1,0 +1,8 @@
+### Problem-1: Longest Word in a Sentence
+   Build a function that extracts the longest word from user-generated content.
+
+-   **Input**: `"Machine learning is fascinating"`
+    
+-   **Output**: `"fascinating"`
+    
+-   **Hint**: Split string and use `max()` with `key=len`.
