@@ -22,6 +22,11 @@ def anagram_check(words):
         else:
             anagram_dict[key] = [word]
     
-    return list(anagram_dict.values())
+    for group in anagram_dict.values(): #only shows value if there is an anagram from the user input
+        if len(group) > 1:
+            return group
+        else:
+            return "There are no anagram from the list"
+
 
 print(anagram_check(split_word))
