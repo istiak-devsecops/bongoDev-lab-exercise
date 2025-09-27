@@ -1,4 +1,0 @@
-### Problem-15: Write conditional statements to identify the student’s average marks. If any subject’s mark is less than 40, you should print FAILED instead of making average marks
-	lstudent_1 = [40, 35, 70, 90, 56]
-
-	student_2 = [57, 35, 80, 98, 46]

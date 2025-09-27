@@ -1,6 +1,0 @@
-### Problem-2: Group Anagrams Together
-Group similar words together in a UI (e.g., tags: `["bat", "tab", "cat", "act"]`).
-
--   **Output**: `[["bat", "tab"], ["cat", "act"]]`
-    
--   **Hint**: Use a dictionary where sorted word is key.
