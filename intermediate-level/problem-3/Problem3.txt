@@ -1,0 +1,5 @@
+### Problem-3: Implement an LRU Cache (Least Recently Used)
+Simulate caching in a backend system. You need to implement a cache with `get()` and `put()` methods.
+    
+
+-   **Hint**: Use `OrderedDict` or create a custom class with a doubly linked list.

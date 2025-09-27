@@ -1,0 +1,9 @@
+### Problem-5: Fibonacci Using Memoization
+Optimize a recursive Fibonacci function using caching, useful in DP-based ML solutions.
+    
+
+-   **Input**: `50`
+    
+-   **Output**: `12586269025`
+    
+-   **Hint**: Use `@lru_cache` from `functools`.
