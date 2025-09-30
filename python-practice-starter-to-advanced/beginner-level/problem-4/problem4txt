@@ -1,0 +1,8 @@
+### Problem-4: Check if a Word is a Palindrome
+Write a function that checks if a word or phrase is the same when reversed, ignoring spaces and punctuation.
+
+-   **Input**: `"Madam"`
+    
+-   **Output**: `True`
+    
+-   **Hint**: Normalize the string and compare it to its reverse.
