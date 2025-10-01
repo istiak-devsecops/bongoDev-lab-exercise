@@ -4,7 +4,6 @@ def find_missing(logs):
     actual_sum = sum(logs)
     return expected_sum - actual_sum
 
-# Example
 logs = [1, 2, 4, 5]
 print(find_missing(logs))  
  
