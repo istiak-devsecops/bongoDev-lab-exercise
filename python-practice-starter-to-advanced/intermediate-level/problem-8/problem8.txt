@@ -1,0 +1,5 @@
+### Problem-8: Command-line Calculator
+Build a CLI tool that takes command `add 5 7` and returns `12`.
+    
+
+-   **Hint**: Parse `input().split()` and use if/elif for commands.
