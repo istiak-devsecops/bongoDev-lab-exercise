@@ -1,0 +1,5 @@
+### Problem-7: Analyze Access Logs and Count IPs
+Parse Apache log and find the top 3 IPs with the most requests.
+    
+
+-   **Hint**: Read file line-by-line and count IPs using `collections.Counter`.
