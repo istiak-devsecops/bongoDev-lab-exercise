@@ -1,0 +1,5 @@
+### Problem-2: Web Scraper for Blog Titles
+Scrape a sample blog page and return all titles within `<h2>` tags.
+    
+
+-   **Hint**: Use `BeautifulSoup` and `requests`.
