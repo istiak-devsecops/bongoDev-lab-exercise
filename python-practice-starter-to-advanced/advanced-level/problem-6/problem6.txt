@@ -1,0 +1,5 @@
+### Problem-6: Read CSV and Return Top Records
+Read a CSV of users and return top 5 users by `score`.
+    
+
+-   **Hint**: Use `csv.DictReader` or `pandas`.
