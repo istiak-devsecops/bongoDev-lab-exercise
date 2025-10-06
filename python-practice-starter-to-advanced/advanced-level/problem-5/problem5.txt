@@ -1,0 +1,5 @@
+### Problem-5: Calculate Pearson Correlation
+Given two lists, calculate the correlation coefficient (e.g., feature correlation in ML).
+    
+
+-   **Hint**: Use formula or `scipy.stats.pearsonr()`.
