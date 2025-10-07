@@ -1,0 +1,5 @@
+### Problem-7: Simulate File Watcher in a Directory
+Monitor a folder and detect when new `.txt` files are added.
+    
+
+-   **Hint**: Use `os.listdir()` in a loop or `watchdog`.
