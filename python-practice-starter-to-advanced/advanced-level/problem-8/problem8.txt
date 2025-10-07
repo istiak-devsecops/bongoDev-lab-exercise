@@ -1,0 +1,5 @@
+### Problem-8: **Matrix Multiplication for ML**
+Multiply two matrices, often needed in neural net computations.
+    
+
+-   **Hint**: Use nested loops or `numpy.dot()`.
