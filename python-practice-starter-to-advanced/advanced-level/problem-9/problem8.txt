@@ -1,0 +1,5 @@
+### Problem-9: Convert Image to Grayscale
+Write a function to convert a color image to grayscale and save it.
+    
+
+-   **Hint**: Use `Pillow` (`PIL.Image.open().convert("L")`).
