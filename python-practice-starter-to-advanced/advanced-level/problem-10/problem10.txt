@@ -1,0 +1,5 @@
+### Problem-10: Load Environment Variables from `.env` File
+Implement a simple `.env` file loader for config in DevOps.
+    
+
+-   **Hint**: Use `dotenv` library or parse lines manually and set in `os.environ`.
